@@ -8,11 +8,17 @@ Data Camp notebooks and projects
 
 ### 07 Introduction to data visualization with Matplotlib
 
+### 14 Exploratory Data Analysis in Python
+
+## Projects
+
 ### Project 1 - Investigating Netflix Movies
 
 ### Project 2 - Exploring NYC Public School Test Result Scores
 
 ### Project 3 - Visualizing the History of Nobel Prize Winner
+
+### Project 4 - Analyzing Crime in Los Angeles
 
 
 ## Tracks/Data Scientist
