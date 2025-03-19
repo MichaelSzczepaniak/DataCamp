@@ -17,13 +17,13 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 ### 18 Data Communication Concepts (IN PROGRESS)
 
 
-## Projects
+## Projects (numbers preceding project reflect their order in the program)
 
-### Project 1 - Investigating Netflix Movies
+### 03 Project 1 - Investigating Netflix Movies
 
-### Project 2 - Exploring NYC Public School Test Result Scores
+### 05 Project 2 - Exploring NYC Public School Test Result Scores
 
-### Project 3 - Visualizing the History of Nobel Prize Winner
+### 10 Project 3 - Visualizing the History of Nobel Prize Winner
 
 ### 15 Project 4 - Analyzing Crime in Los Angeles
 
