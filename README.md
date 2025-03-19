@@ -14,6 +14,9 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 16 Working with Categorical Data in Python
 
+### 18 Data Communication Concepts (IN PROGRESS)
+
+
 ## Projects
 
 ### Project 1 - Investigating Netflix Movies
@@ -22,9 +25,9 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### Project 3 - Visualizing the History of Nobel Prize Winner
 
-### Project 4 - Analyzing Crime in Los Angeles
+### 15 Project 4 - Analyzing Crime in Los Angeles
 
-### Project 5 - Customer Analytics - Preparing Data for Modeling (IN PROGRESS)
+### 17 Project 5 - Customer Analytics - Preparing Data for Modeling
 
 
 ## Tracks/Data Scientist
