@@ -6,6 +6,8 @@ Data Camp notebooks and projects
 
 ## Tracks/Associate Data Scientist
 
+Numbers preceding folders reflect their order in the overall program described at:
+
 https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 07 Introduction to data visualization with Matplotlib
@@ -17,7 +19,11 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 ### 18 Data Communication Concepts (IN PROGRESS)
 
 
-## Projects (numbers preceding project reflect their order in the program)
+## Associate Data Scientist Projects
+
+Numbers preceding projects reflect their overall program described at:
+
+https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 03 Project 1 - Investigating Netflix Movies
 
@@ -31,6 +37,13 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 
 ## Tracks/Data Scientist
+
+Numbers preceding folders reflect their order in the overall program described at:
+
+https://app.datacamp.com/learn/career-tracks/data-scientist-in-pythohttps://app.datacamp.com/learn/career-tracks/data-scientist-in-python
+
+## Data Scientist Projects
+
 
 
 ## Tracks/Machine Learning Scientist
