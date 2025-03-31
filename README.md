@@ -16,7 +16,14 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 16 Working with Categorical Data in Python
 
-### 18 Data Communication Concepts (IN PROGRESS)
+### 18 Data Communication Concepts
+
++ Just including the slides here. All the exercises were done on the **DataCamp** platform.
+
+### 19 Introduction to Importing Data in Python
+
++ The sqlite version of the Northwinds database is not included in this repo. However, it can be found [here](https://github.com/jpwhite3/northwind-SQLite3).
++ Note that some of the course code in the last section working with relational databases was a little out-dated. These sections have been revised so that they work as of the last checkin.
 
 
 ## Associate Data Scientist Projects
