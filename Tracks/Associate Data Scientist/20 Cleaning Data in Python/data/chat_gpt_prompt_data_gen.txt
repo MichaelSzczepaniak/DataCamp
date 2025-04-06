@@ -1,10 +1,11 @@
-The text that follows this paragraph is a CSV file with a header row followed by 103 records which have the following 6 fields: index, first_name, last_name, address, height and weight. Eight of the records are already filled in. Please fill in data for the missing 5 fields of the 95 records that are missing data and output the results. For the first_name field, use 47 male names and 48 female names. For the last_name and address fields make up something that looks realistic. For the height field, use random integers between 160 and 190. For the weight field, use random integers between 70 and 100.
+The text that follows this paragraph is a CSV file with a header row followed by 104 records which have the following 6 fields: index, first_name, last_name, address, height and weight. Eight of the records are already filled in. Please fill in data for the missing 5 fields of the 92 records that are missing data and output the results. For the first_name field, use 45 male names and 46 female names. For the last_name and address fields make up something that looks realistic. For the height field, use random integers between 160 and 190. For the weight field, use random integers between 70 and 100.
 
 index,first_name,last_name,address,height,weight
-1,"Ivor","Pierce","102-3364 Non Road",168,66
-2,,,,
-3,,,,,
-4,,,,,
+0,"Lane","Reese","534-1559 Nam St.",181,64
+1,"Ivor","Pierce","102-3364 Non Road",168,88
+2,"Roary","Gibson","P.O. Box 344, 7785 Nisi Ave",191,99 
+3,"Shannon","Little","691-2550 Consectetuer Street",185,65
+4,"Abdul","Fry","4565 Risus St.",169,65
 5,,,,,
 6,,,,,
 7,,,,,
@@ -104,4 +105,3 @@ index,first_name,last_name,address,height,weight
 101,"Ivor","Pierce","102-3364 Non Road",168,88
 102,"Cole","Palmer","8366 At, Street",178,91
 103,"Desirae","Shannon","P.O. Box 643, 5251 Consectetuer, Rd.",196,83
-
