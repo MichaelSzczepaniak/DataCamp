@@ -25,6 +25,10 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 + The sqlite version of the Northwinds database is not included in this repo. However, it can be found [here](https://github.com/jpwhite3/northwind-SQLite3).
 + Note that some of the course code in the last section working with relational databases was a little out-dated. These sections have been revised so that they work as of the last checkin.
 
+### 20 Cleaning Data
+
++ Many of the data sets which used in the course which were not provided, have been added
++ TBD
 
 ## Associate Data Scientist Projects
 
