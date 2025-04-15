@@ -27,8 +27,8 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 20 Cleaning Data
 
-+ Many of the data sets which used in the course which were not provided, have been added
-+ TBD
++ Many of the data sets which used in the course which were not provided have been manually built and added to this project
+
 
 ## Associate Data Scientist Projects
 
@@ -45,6 +45,8 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 ### 15 Project 4 - Analyzing Crime in Los Angeles
 
 ### 17 Project 5 - Customer Analytics - Preparing Data for Modeling
+
+### 21 Project 6 - Exploring Airbnb Market Trends
 
 
 ## Tracks/Data Scientist
