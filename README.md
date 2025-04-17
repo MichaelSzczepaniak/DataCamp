@@ -29,6 +29,10 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 + Many of the data sets which used in the course which were not provided have been manually built and added to this project
 
+### 22 Working with Dates and Times in Python
+
++ Data for the first exercise is in `data/ex01_dates.csv`
+
 
 ## Associate Data Scientist Projects
 
