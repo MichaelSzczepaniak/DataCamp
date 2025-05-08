@@ -33,6 +33,8 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 + Data for the first exercise is in `data/ex01_dates.csv`
 
+### 24 Writing Functions in Python
+
 
 ## Associate Data Scientist Projects
 
