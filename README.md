@@ -35,6 +35,8 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 24 Writing Functions in Python
 
+### 26 Introduction to Regression with statsmodels in Python
+
 
 ## Associate Data Scientist Projects
 
