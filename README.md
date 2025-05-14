@@ -56,6 +56,8 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 21 Project 6 - Exploring Airbnb Market Trends
 
+### 27 Project 7 - Modeling Car Insurance Claims Outcomes
+
 
 ## Tracks/Data Scientist
 
