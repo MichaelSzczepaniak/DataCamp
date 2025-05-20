@@ -2,8 +2,6 @@
 
 Collection of notebooks that work through course examples and projects related to each of the certifications described below.
 
-Data Camp notebooks and projects
-
 ## Tracks/Associate Data Scientist
 
 Numbers preceding folders reflect their order in the overall program described at:
@@ -37,6 +35,9 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 26 Introduction to Regression with statsmodels in Python
 
+### 28 Sampling in Python
+
++ Mystery samples for the first exercises were not provided, but have been added to this sections **data** folder
 
 ## Associate Data Scientist Projects
 
