@@ -39,6 +39,8 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 + Mystery samples for the first exercises were not provided, but have been added to this sections **data** folder
 
+
+
 ## Associate Data Scientist Projects
 
 Numbers preceding projects reflect their overall program described at:
