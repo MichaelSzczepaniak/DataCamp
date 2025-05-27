@@ -37,8 +37,10 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 28 Sampling in Python
 
-+ Mystery samples for the first exercises were not provided, but have been added to this sections **data** folder
++ Mystery samples for the first exercises were not provided, but has been added to this sections **data** folder
++ The Spotify bootstrap data set used in the *Introduction to bootstrapping* section was not provided, but has been added to this sections **data** folder
 
+### 29 Hypothesis Testing in Python
 
 
 ## Associate Data Scientist Projects
