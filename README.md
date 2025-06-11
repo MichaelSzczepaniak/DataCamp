@@ -42,6 +42,10 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 29 Hypothesis Testing in Python
 
+### 30 Experimental Design in Python
+
++ Lots of data sets used in examples are missing, but most have been extracted and added to this part of the project.
+
 
 ## Associate Data Scientist Projects
 
