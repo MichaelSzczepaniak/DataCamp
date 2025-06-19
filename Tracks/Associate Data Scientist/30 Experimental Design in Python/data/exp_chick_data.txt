@@ -1,4 +1,4 @@
-idx  Chick  Diet  weight
+row  Chick  Diet  weight
 0        1     1      42
 1        1     1      51
 2        1     1      59

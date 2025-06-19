@@ -1,4 +1,4 @@
-idx  Therapy_Type  Anxiety_Reduction
+row  Therapy_Type  Anxiety_Reduction
 0             ACT             17.484
 1             DBT             14.309
 2             ACT             18.238

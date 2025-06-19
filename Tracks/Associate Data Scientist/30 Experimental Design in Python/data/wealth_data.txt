@@ -1,4 +1,4 @@
-index net_wealth  service_involvement  high_wealth
+row   net_wealth  service_involvement  high_wealth
 0     112820.451                   19            0
 1     106850.675                   19            0
 2     118590.331                   19            0

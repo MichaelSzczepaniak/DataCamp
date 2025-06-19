@@ -1,4 +1,4 @@
-idx   id  weight
+row   id  weight
 0    262   39.07
 1     74   44.04
 2    471   46.58

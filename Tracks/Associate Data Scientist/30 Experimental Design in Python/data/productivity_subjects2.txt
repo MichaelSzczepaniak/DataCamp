@@ -1,4 +1,4 @@
-idx   subject_id  productivity_score block
+row   subject_id  productivity_score block
 0              1                11.9     2
 1              2                28.6     3
 2              3                22.2     3
