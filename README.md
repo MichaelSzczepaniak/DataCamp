@@ -48,7 +48,7 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 32 Supervised Learming with scikit-learn
 
-### 34 Unsupervised Learning in Python (TO DO)
+### 34 Unsupervised Learning in Python
 
 ### 36 Machine Learning with Tree-Based Models in Python (TO DO)
 
