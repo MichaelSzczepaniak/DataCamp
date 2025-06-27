@@ -46,6 +46,11 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 + Lots of data sets used in examples are missing, but most have been extracted and added to this part of the project.
 
+### 32 Supervised Learming with scikit-learn
+
+### 34 Unsupervised Learning in Python (TO DO)
+
+### 36 Machine Learning with Tree-Based Models in Python (TO DO)
 
 ## Associate Data Scientist Projects
 
@@ -66,6 +71,14 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 ### 21 Project 6 - Exploring Airbnb Market Trends
 
 ### 27 Project 7 - Modeling Car Insurance Claims Outcomes
+
+### 31 Project 8 - Hypothesis Testing with Men's and Women's Soccer Matches
+
+### 33 Project 9 - Predictive Modeling for Agriculture
+
+### 35 Project 10 - Clustering Antarctic Penguin Species (TO DO)
+
+### 37 Project 11 - Predicting Movie Rental Durations (TO DO)
 
 
 ## Tracks/Data Scientist

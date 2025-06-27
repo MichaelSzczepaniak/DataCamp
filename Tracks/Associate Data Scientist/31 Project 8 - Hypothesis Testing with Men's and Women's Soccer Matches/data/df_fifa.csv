@@ -1,0 +1,585 @@
+,date,home_team,away_team,home_score,away_score,tournament,gender,total_goals
+25164,2002-05-31,France,Senegal,0,1,FIFA World Cup,men,1
+25165,2002-06-01,Germany,Saudi Arabia,8,0,FIFA World Cup,men,8
+25166,2002-06-01,Republic of Ireland,Cameroon,1,1,FIFA World Cup,men,2
+25167,2002-06-01,Uruguay,Denmark,1,2,FIFA World Cup,men,3
+25168,2002-06-02,Argentina,Nigeria,1,0,FIFA World Cup,men,1
+25169,2002-06-02,England,Sweden,1,1,FIFA World Cup,men,2
+25170,2002-06-02,Paraguay,South Africa,2,2,FIFA World Cup,men,4
+25171,2002-06-02,Spain,Slovenia,3,1,FIFA World Cup,men,4
+25172,2002-06-03,Brazil,Turkey,2,1,FIFA World Cup,men,3
+25173,2002-06-03,Croatia,Mexico,0,1,FIFA World Cup,men,1
+25174,2002-06-03,Italy,Ecuador,2,0,FIFA World Cup,men,2
+25175,2002-06-04,China PR,Costa Rica,0,2,FIFA World Cup,men,2
+25176,2002-06-04,Japan,Belgium,2,2,FIFA World Cup,men,4
+25177,2002-06-04,South Korea,Poland,2,0,FIFA World Cup,men,2
+25178,2002-06-05,Germany,Republic of Ireland,1,1,FIFA World Cup,men,2
+25179,2002-06-05,Russia,Tunisia,2,0,FIFA World Cup,men,2
+25180,2002-06-05,United States,Portugal,3,2,FIFA World Cup,men,5
+25181,2002-06-06,Cameroon,Saudi Arabia,1,0,FIFA World Cup,men,1
+25182,2002-06-06,Denmark,Senegal,1,1,FIFA World Cup,men,2
+25183,2002-06-06,France,Uruguay,0,0,FIFA World Cup,men,0
+25186,2002-06-07,Argentina,England,0,1,FIFA World Cup,men,1
+25187,2002-06-07,Spain,Paraguay,3,1,FIFA World Cup,men,4
+25188,2002-06-07,Sweden,Nigeria,2,1,FIFA World Cup,men,3
+25189,2002-06-08,Brazil,China PR,4,0,FIFA World Cup,men,4
+25190,2002-06-08,Italy,Croatia,1,2,FIFA World Cup,men,3
+25192,2002-06-08,South Africa,Slovenia,1,0,FIFA World Cup,men,1
+25193,2002-06-09,Costa Rica,Turkey,1,1,FIFA World Cup,men,2
+25194,2002-06-09,Japan,Russia,1,0,FIFA World Cup,men,1
+25196,2002-06-09,Mexico,Ecuador,2,1,FIFA World Cup,men,3
+25197,2002-06-10,South Korea,United States,1,1,FIFA World Cup,men,2
+25198,2002-06-10,Portugal,Poland,4,0,FIFA World Cup,men,4
+25199,2002-06-10,Tunisia,Belgium,1,1,FIFA World Cup,men,2
+25200,2002-06-11,Cameroon,Germany,0,2,FIFA World Cup,men,2
+25201,2002-06-11,Denmark,France,2,0,FIFA World Cup,men,2
+25202,2002-06-11,Saudi Arabia,Republic of Ireland,0,3,FIFA World Cup,men,3
+25203,2002-06-11,Senegal,Uruguay,3,3,FIFA World Cup,men,6
+25204,2002-06-12,Nigeria,England,0,0,FIFA World Cup,men,0
+25205,2002-06-12,Slovenia,Paraguay,1,3,FIFA World Cup,men,4
+25206,2002-06-12,South Africa,Spain,2,3,FIFA World Cup,men,5
+25207,2002-06-12,Sweden,Argentina,1,1,FIFA World Cup,men,2
+25208,2002-06-13,Costa Rica,Brazil,2,5,FIFA World Cup,men,7
+25209,2002-06-13,Ecuador,Croatia,1,0,FIFA World Cup,men,1
+25210,2002-06-13,Mexico,Italy,1,1,FIFA World Cup,men,2
+25211,2002-06-13,Turkey,China PR,3,0,FIFA World Cup,men,3
+25212,2002-06-14,Belgium,Russia,3,2,FIFA World Cup,men,5
+25213,2002-06-14,Japan,Tunisia,2,0,FIFA World Cup,men,2
+25214,2002-06-14,South Korea,Portugal,1,0,FIFA World Cup,men,1
+25215,2002-06-14,Poland,United States,3,1,FIFA World Cup,men,4
+25216,2002-06-15,Denmark,England,0,3,FIFA World Cup,men,3
+25217,2002-06-15,Germany,Paraguay,1,0,FIFA World Cup,men,1
+25218,2002-06-16,Spain,Republic of Ireland,1,1,FIFA World Cup,men,2
+25219,2002-06-16,Sweden,Senegal,1,2,FIFA World Cup,men,3
+25220,2002-06-17,Brazil,Belgium,2,0,FIFA World Cup,men,2
+25221,2002-06-17,Mexico,United States,0,2,FIFA World Cup,men,2
+25222,2002-06-18,Japan,Turkey,0,1,FIFA World Cup,men,1
+25223,2002-06-18,South Korea,Italy,2,1,FIFA World Cup,men,3
+25224,2002-06-21,England,Brazil,1,2,FIFA World Cup,men,3
+25225,2002-06-21,Germany,United States,1,0,FIFA World Cup,men,1
+25227,2002-06-22,South Korea,Spain,0,0,FIFA World Cup,men,0
+25228,2002-06-22,Senegal,Turkey,0,1,FIFA World Cup,men,1
+25230,2002-06-25,South Korea,Germany,0,1,FIFA World Cup,men,1
+25232,2002-06-26,Brazil,Turkey,1,0,FIFA World Cup,men,1
+25233,2002-06-29,South Korea,Turkey,2,3,FIFA World Cup,men,5
+25235,2002-06-30,Germany,Brazil,0,2,FIFA World Cup,men,2
+28738,2006-06-09,Germany,Costa Rica,4,2,FIFA World Cup,men,6
+28739,2006-06-09,Poland,Ecuador,0,2,FIFA World Cup,men,2
+28740,2006-06-10,Argentina,Ivory Coast,2,1,FIFA World Cup,men,3
+28741,2006-06-10,England,Paraguay,1,0,FIFA World Cup,men,1
+28742,2006-06-10,Trinidad and Tobago,Sweden,0,0,FIFA World Cup,men,0
+28743,2006-06-11,Angola,Portugal,0,1,FIFA World Cup,men,1
+28744,2006-06-11,Mexico,Iran,3,1,FIFA World Cup,men,4
+28745,2006-06-11,Serbia,Netherlands,0,1,FIFA World Cup,men,1
+28746,2006-06-12,Australia,Japan,3,1,FIFA World Cup,men,4
+28747,2006-06-12,Italy,Ghana,2,0,FIFA World Cup,men,2
+28748,2006-06-12,United States,Czech Republic,0,3,FIFA World Cup,men,3
+28749,2006-06-13,Brazil,Croatia,1,0,FIFA World Cup,men,1
+28750,2006-06-13,France,Switzerland,0,0,FIFA World Cup,men,0
+28751,2006-06-13,South Korea,Togo,2,1,FIFA World Cup,men,3
+28752,2006-06-14,Germany,Poland,1,0,FIFA World Cup,men,1
+28753,2006-06-14,Spain,Ukraine,4,0,FIFA World Cup,men,4
+28754,2006-06-14,Tunisia,Saudi Arabia,2,2,FIFA World Cup,men,4
+28755,2006-06-15,Ecuador,Costa Rica,3,0,FIFA World Cup,men,3
+28756,2006-06-15,England,Trinidad and Tobago,2,0,FIFA World Cup,men,2
+28757,2006-06-15,Sweden,Paraguay,1,0,FIFA World Cup,men,1
+28758,2006-06-16,Argentina,Serbia,6,0,FIFA World Cup,men,6
+28759,2006-06-16,Mexico,Angola,0,0,FIFA World Cup,men,0
+28760,2006-06-16,Netherlands,Ivory Coast,2,1,FIFA World Cup,men,3
+28761,2006-06-17,Czech Republic,Ghana,0,2,FIFA World Cup,men,2
+28762,2006-06-17,Italy,United States,1,1,FIFA World Cup,men,2
+28763,2006-06-17,Portugal,Iran,2,0,FIFA World Cup,men,2
+28764,2006-06-18,Brazil,Australia,2,0,FIFA World Cup,men,2
+28765,2006-06-18,France,South Korea,1,1,FIFA World Cup,men,2
+28766,2006-06-18,Japan,Croatia,0,0,FIFA World Cup,men,0
+28767,2006-06-19,Saudi Arabia,Ukraine,0,4,FIFA World Cup,men,4
+28768,2006-06-19,Spain,Tunisia,3,1,FIFA World Cup,men,4
+28769,2006-06-19,Togo,Switzerland,0,2,FIFA World Cup,men,2
+28770,2006-06-20,Costa Rica,Poland,1,2,FIFA World Cup,men,3
+28771,2006-06-20,Germany,Ecuador,3,0,FIFA World Cup,men,3
+28772,2006-06-20,Paraguay,Trinidad and Tobago,2,0,FIFA World Cup,men,2
+28773,2006-06-20,Sweden,England,2,2,FIFA World Cup,men,4
+28774,2006-06-21,Iran,Angola,1,1,FIFA World Cup,men,2
+28775,2006-06-21,Ivory Coast,Serbia,3,2,FIFA World Cup,men,5
+28776,2006-06-21,Netherlands,Argentina,0,0,FIFA World Cup,men,0
+28777,2006-06-21,Portugal,Mexico,2,1,FIFA World Cup,men,3
+28778,2006-06-22,Croatia,Australia,2,2,FIFA World Cup,men,4
+28779,2006-06-22,Czech Republic,Italy,0,2,FIFA World Cup,men,2
+28780,2006-06-22,Ghana,United States,2,1,FIFA World Cup,men,3
+28781,2006-06-22,Japan,Brazil,1,4,FIFA World Cup,men,5
+28782,2006-06-23,Saudi Arabia,Spain,0,1,FIFA World Cup,men,1
+28783,2006-06-23,Switzerland,South Korea,2,0,FIFA World Cup,men,2
+28784,2006-06-23,Togo,France,0,2,FIFA World Cup,men,2
+28785,2006-06-23,Ukraine,Tunisia,1,0,FIFA World Cup,men,1
+28786,2006-06-24,Argentina,Mexico,2,1,FIFA World Cup,men,3
+28787,2006-06-24,Germany,Sweden,2,0,FIFA World Cup,men,2
+28790,2006-06-25,England,Ecuador,1,0,FIFA World Cup,men,1
+28792,2006-06-25,Portugal,Netherlands,1,0,FIFA World Cup,men,1
+28794,2006-06-26,Italy,Australia,1,0,FIFA World Cup,men,1
+28796,2006-06-26,Switzerland,Ukraine,0,0,FIFA World Cup,men,0
+28797,2006-06-27,Brazil,Ghana,3,0,FIFA World Cup,men,3
+28798,2006-06-27,Spain,France,1,3,FIFA World Cup,men,4
+28800,2006-06-30,Germany,Argentina,1,1,FIFA World Cup,men,2
+28801,2006-06-30,Italy,Ukraine,3,0,FIFA World Cup,men,3
+28803,2006-07-01,Brazil,France,0,1,FIFA World Cup,men,1
+28804,2006-07-01,England,Portugal,0,0,FIFA World Cup,men,0
+28806,2006-07-04,Germany,Italy,0,2,FIFA World Cup,men,2
+28808,2006-07-05,Portugal,France,0,1,FIFA World Cup,men,1
+28810,2006-07-08,Germany,Portugal,3,1,FIFA World Cup,men,4
+28812,2006-07-09,Italy,France,1,1,FIFA World Cup,men,2
+32538,2010-06-11,South Africa,Mexico,1,1,FIFA World Cup,men,2
+32539,2010-06-11,Uruguay,France,0,0,FIFA World Cup,men,0
+32540,2010-06-12,Argentina,Nigeria,1,0,FIFA World Cup,men,1
+32541,2010-06-12,England,United States,1,1,FIFA World Cup,men,2
+32542,2010-06-12,South Korea,Greece,2,0,FIFA World Cup,men,2
+32543,2010-06-13,Algeria,Slovenia,0,1,FIFA World Cup,men,1
+32544,2010-06-13,Germany,Australia,4,0,FIFA World Cup,men,4
+32545,2010-06-13,Serbia,Ghana,0,1,FIFA World Cup,men,1
+32546,2010-06-14,Italy,Paraguay,1,1,FIFA World Cup,men,2
+32547,2010-06-14,Japan,Cameroon,1,0,FIFA World Cup,men,1
+32548,2010-06-14,Netherlands,Denmark,2,0,FIFA World Cup,men,2
+32549,2010-06-15,Brazil,North Korea,2,1,FIFA World Cup,men,3
+32550,2010-06-15,Ivory Coast,Portugal,0,0,FIFA World Cup,men,0
+32551,2010-06-15,New Zealand,Slovakia,1,1,FIFA World Cup,men,2
+32552,2010-06-16,Honduras,Chile,0,1,FIFA World Cup,men,1
+32553,2010-06-16,South Africa,Uruguay,0,3,FIFA World Cup,men,3
+32554,2010-06-16,Spain,Switzerland,0,1,FIFA World Cup,men,1
+32555,2010-06-17,Argentina,South Korea,4,1,FIFA World Cup,men,5
+32556,2010-06-17,France,Mexico,0,2,FIFA World Cup,men,2
+32557,2010-06-17,Greece,Nigeria,2,1,FIFA World Cup,men,3
+32558,2010-06-18,England,Algeria,0,0,FIFA World Cup,men,0
+32559,2010-06-18,Germany,Serbia,0,1,FIFA World Cup,men,1
+32561,2010-06-18,Slovenia,United States,2,2,FIFA World Cup,men,4
+32562,2010-06-19,Cameroon,Denmark,1,2,FIFA World Cup,men,3
+32564,2010-06-19,Ghana,Australia,1,1,FIFA World Cup,men,2
+32565,2010-06-19,Netherlands,Japan,1,0,FIFA World Cup,men,1
+32568,2010-06-20,Brazil,Ivory Coast,3,1,FIFA World Cup,men,4
+32569,2010-06-20,Italy,New Zealand,1,1,FIFA World Cup,men,2
+32571,2010-06-20,Slovakia,Paraguay,0,2,FIFA World Cup,men,2
+32573,2010-06-21,Chile,Switzerland,1,0,FIFA World Cup,men,1
+32574,2010-06-21,Portugal,North Korea,7,0,FIFA World Cup,men,7
+32575,2010-06-21,Spain,Honduras,2,0,FIFA World Cup,men,2
+32576,2010-06-22,Greece,Argentina,0,2,FIFA World Cup,men,2
+32577,2010-06-22,Mexico,Uruguay,0,1,FIFA World Cup,men,1
+32578,2010-06-22,Nigeria,South Korea,2,2,FIFA World Cup,men,4
+32579,2010-06-22,South Africa,France,2,1,FIFA World Cup,men,3
+32580,2010-06-23,Australia,Serbia,2,1,FIFA World Cup,men,3
+32581,2010-06-23,Ghana,Germany,0,1,FIFA World Cup,men,1
+32582,2010-06-23,Slovenia,England,0,1,FIFA World Cup,men,1
+32583,2010-06-23,United States,Algeria,1,0,FIFA World Cup,men,1
+32584,2010-06-24,Cameroon,Netherlands,1,2,FIFA World Cup,men,3
+32585,2010-06-24,Denmark,Japan,1,3,FIFA World Cup,men,4
+32586,2010-06-24,Paraguay,New Zealand,0,0,FIFA World Cup,men,0
+32587,2010-06-24,Slovakia,Italy,3,2,FIFA World Cup,men,5
+32588,2010-06-25,Chile,Spain,1,2,FIFA World Cup,men,3
+32589,2010-06-25,North Korea,Ivory Coast,0,3,FIFA World Cup,men,3
+32590,2010-06-25,Portugal,Brazil,0,0,FIFA World Cup,men,0
+32591,2010-06-25,Switzerland,Honduras,0,0,FIFA World Cup,men,0
+32593,2010-06-26,Uruguay,South Korea,2,1,FIFA World Cup,men,3
+32594,2010-06-26,United States,Ghana,1,2,FIFA World Cup,men,3
+32595,2010-06-27,Argentina,Mexico,3,1,FIFA World Cup,men,4
+32596,2010-06-27,Germany,England,4,1,FIFA World Cup,men,5
+32597,2010-06-28,Brazil,Chile,3,0,FIFA World Cup,men,3
+32598,2010-06-28,Netherlands,Slovakia,2,1,FIFA World Cup,men,3
+32599,2010-06-29,Paraguay,Japan,0,0,FIFA World Cup,men,0
+32600,2010-06-29,Spain,Portugal,1,0,FIFA World Cup,men,1
+32603,2010-07-02,Netherlands,Brazil,2,1,FIFA World Cup,men,3
+32604,2010-07-02,Uruguay,Ghana,1,1,FIFA World Cup,men,2
+32605,2010-07-03,Argentina,Germany,0,4,FIFA World Cup,men,4
+32606,2010-07-03,Paraguay,Spain,0,1,FIFA World Cup,men,1
+32607,2010-07-06,Uruguay,Netherlands,2,3,FIFA World Cup,men,5
+32608,2010-07-07,Germany,Spain,0,1,FIFA World Cup,men,1
+32611,2010-07-10,Uruguay,Germany,2,3,FIFA World Cup,men,5
+32612,2010-07-11,Netherlands,Spain,0,1,FIFA World Cup,men,1
+36502,2014-06-12,Brazil,Croatia,3,1,FIFA World Cup,men,4
+36503,2014-06-13,Chile,Australia,3,1,FIFA World Cup,men,4
+36504,2014-06-13,Mexico,Cameroon,1,0,FIFA World Cup,men,1
+36505,2014-06-13,Spain,Netherlands,1,5,FIFA World Cup,men,6
+36506,2014-06-14,Colombia,Greece,3,0,FIFA World Cup,men,3
+36507,2014-06-14,England,Italy,1,2,FIFA World Cup,men,3
+36508,2014-06-14,Ivory Coast,Japan,2,1,FIFA World Cup,men,3
+36509,2014-06-14,Uruguay,Costa Rica,1,3,FIFA World Cup,men,4
+36510,2014-06-15,Argentina,Bosnia and Herzegovina,2,1,FIFA World Cup,men,3
+36511,2014-06-15,France,Honduras,3,0,FIFA World Cup,men,3
+36512,2014-06-15,Switzerland,Ecuador,2,1,FIFA World Cup,men,3
+36513,2014-06-16,Germany,Portugal,4,0,FIFA World Cup,men,4
+36514,2014-06-16,Ghana,United States,1,2,FIFA World Cup,men,3
+36515,2014-06-16,Iran,Nigeria,0,0,FIFA World Cup,men,0
+36516,2014-06-17,Belgium,Algeria,2,1,FIFA World Cup,men,3
+36517,2014-06-17,Brazil,Mexico,0,0,FIFA World Cup,men,0
+36518,2014-06-17,Russia,South Korea,1,1,FIFA World Cup,men,2
+36519,2014-06-18,Australia,Netherlands,2,3,FIFA World Cup,men,5
+36520,2014-06-18,Cameroon,Croatia,0,4,FIFA World Cup,men,4
+36522,2014-06-18,Spain,Chile,0,2,FIFA World Cup,men,2
+36523,2014-06-19,Colombia,Ivory Coast,2,1,FIFA World Cup,men,3
+36524,2014-06-19,Japan,Greece,0,0,FIFA World Cup,men,0
+36525,2014-06-19,Uruguay,England,2,1,FIFA World Cup,men,3
+36526,2014-06-20,Honduras,Ecuador,1,2,FIFA World Cup,men,3
+36527,2014-06-20,Italy,Costa Rica,0,1,FIFA World Cup,men,1
+36528,2014-06-20,Switzerland,France,2,5,FIFA World Cup,men,7
+36529,2014-06-21,Argentina,Iran,1,0,FIFA World Cup,men,1
+36530,2014-06-21,Germany,Ghana,2,2,FIFA World Cup,men,4
+36532,2014-06-21,Nigeria,Bosnia and Herzegovina,1,0,FIFA World Cup,men,1
+36533,2014-06-22,Belgium,Russia,1,0,FIFA World Cup,men,1
+36535,2014-06-22,South Korea,Algeria,2,4,FIFA World Cup,men,6
+36536,2014-06-22,United States,Portugal,2,2,FIFA World Cup,men,4
+36537,2014-06-23,Australia,Spain,0,3,FIFA World Cup,men,3
+36538,2014-06-23,Brazil,Cameroon,4,1,FIFA World Cup,men,5
+36539,2014-06-23,Croatia,Mexico,1,3,FIFA World Cup,men,4
+36540,2014-06-23,Netherlands,Chile,2,0,FIFA World Cup,men,2
+36541,2014-06-24,Costa Rica,England,0,0,FIFA World Cup,men,0
+36542,2014-06-24,Greece,Ivory Coast,2,1,FIFA World Cup,men,3
+36543,2014-06-24,Italy,Uruguay,0,1,FIFA World Cup,men,1
+36544,2014-06-24,Japan,Colombia,1,4,FIFA World Cup,men,5
+36545,2014-06-25,Bosnia and Herzegovina,Iran,3,1,FIFA World Cup,men,4
+36546,2014-06-25,Ecuador,France,0,0,FIFA World Cup,men,0
+36547,2014-06-25,Honduras,Switzerland,0,3,FIFA World Cup,men,3
+36549,2014-06-25,Nigeria,Argentina,2,3,FIFA World Cup,men,5
+36550,2014-06-26,Algeria,Russia,1,1,FIFA World Cup,men,2
+36551,2014-06-26,South Korea,Belgium,0,1,FIFA World Cup,men,1
+36552,2014-06-26,Portugal,Ghana,2,1,FIFA World Cup,men,3
+36553,2014-06-26,United States,Germany,0,1,FIFA World Cup,men,1
+36554,2014-06-28,Brazil,Chile,1,1,FIFA World Cup,men,2
+36555,2014-06-28,Colombia,Uruguay,2,0,FIFA World Cup,men,2
+36557,2014-06-29,Costa Rica,Greece,1,1,FIFA World Cup,men,2
+36558,2014-06-29,Netherlands,Mexico,2,1,FIFA World Cup,men,3
+36559,2014-06-30,France,Nigeria,2,0,FIFA World Cup,men,2
+36560,2014-06-30,Germany,Algeria,2,1,FIFA World Cup,men,3
+36561,2014-07-01,Argentina,Switzerland,1,0,FIFA World Cup,men,1
+36562,2014-07-01,Belgium,United States,2,1,FIFA World Cup,men,3
+36564,2014-07-04,Brazil,Colombia,2,1,FIFA World Cup,men,3
+36565,2014-07-04,France,Germany,0,1,FIFA World Cup,men,1
+36566,2014-07-05,Argentina,Belgium,1,0,FIFA World Cup,men,1
+36567,2014-07-05,Netherlands,Costa Rica,0,0,FIFA World Cup,men,0
+36569,2014-07-08,Brazil,Germany,1,7,FIFA World Cup,men,8
+36570,2014-07-09,Netherlands,Argentina,0,0,FIFA World Cup,men,0
+36572,2014-07-12,Brazil,Netherlands,0,3,FIFA World Cup,men,3
+36574,2014-07-13,Germany,Argentina,1,0,FIFA World Cup,men,1
+40354,2018-06-14,Russia,Saudi Arabia,5,0,FIFA World Cup,men,5
+40355,2018-06-15,Egypt,Uruguay,0,1,FIFA World Cup,men,1
+40356,2018-06-15,Morocco,Iran,0,1,FIFA World Cup,men,1
+40357,2018-06-15,Portugal,Spain,3,3,FIFA World Cup,men,6
+40358,2018-06-16,France,Australia,2,1,FIFA World Cup,men,3
+40359,2018-06-16,Argentina,Iceland,1,1,FIFA World Cup,men,2
+40360,2018-06-16,Peru,Denmark,0,1,FIFA World Cup,men,1
+40361,2018-06-16,Croatia,Nigeria,2,0,FIFA World Cup,men,2
+40362,2018-06-17,Costa Rica,Serbia,0,1,FIFA World Cup,men,1
+40363,2018-06-17,Germany,Mexico,0,1,FIFA World Cup,men,1
+40364,2018-06-17,Brazil,Switzerland,1,1,FIFA World Cup,men,2
+40365,2018-06-18,Sweden,South Korea,1,0,FIFA World Cup,men,1
+40366,2018-06-18,Belgium,Panama,3,0,FIFA World Cup,men,3
+40367,2018-06-18,Tunisia,England,1,2,FIFA World Cup,men,3
+40368,2018-06-19,Colombia,Japan,1,2,FIFA World Cup,men,3
+40369,2018-06-19,Poland,Senegal,1,2,FIFA World Cup,men,3
+40370,2018-06-19,Russia,Egypt,3,1,FIFA World Cup,men,4
+40371,2018-06-20,Portugal,Morocco,1,0,FIFA World Cup,men,1
+40372,2018-06-20,Uruguay,Saudi Arabia,1,0,FIFA World Cup,men,1
+40373,2018-06-20,Iran,Spain,0,1,FIFA World Cup,men,1
+40374,2018-06-21,Denmark,Australia,1,1,FIFA World Cup,men,2
+40375,2018-06-21,France,Peru,1,0,FIFA World Cup,men,1
+40376,2018-06-21,Argentina,Croatia,0,3,FIFA World Cup,men,3
+40377,2018-06-22,Brazil,Costa Rica,2,0,FIFA World Cup,men,2
+40378,2018-06-22,Nigeria,Iceland,2,0,FIFA World Cup,men,2
+40379,2018-06-22,Serbia,Switzerland,1,2,FIFA World Cup,men,3
+40380,2018-06-23,Belgium,Tunisia,5,2,FIFA World Cup,men,7
+40381,2018-06-23,South Korea,Mexico,1,2,FIFA World Cup,men,3
+40382,2018-06-23,Germany,Sweden,2,1,FIFA World Cup,men,3
+40383,2018-06-24,England,Panama,6,1,FIFA World Cup,men,7
+40384,2018-06-24,Japan,Senegal,2,2,FIFA World Cup,men,4
+40385,2018-06-24,Poland,Colombia,0,3,FIFA World Cup,men,3
+40386,2018-06-25,Russia,Uruguay,0,3,FIFA World Cup,men,3
+40387,2018-06-25,Saudi Arabia,Egypt,2,1,FIFA World Cup,men,3
+40388,2018-06-25,Spain,Morocco,2,2,FIFA World Cup,men,4
+40389,2018-06-25,Iran,Portugal,1,1,FIFA World Cup,men,2
+40390,2018-06-26,Australia,Peru,0,2,FIFA World Cup,men,2
+40391,2018-06-26,Denmark,France,0,0,FIFA World Cup,men,0
+40392,2018-06-26,Nigeria,Argentina,1,2,FIFA World Cup,men,3
+40393,2018-06-26,Iceland,Croatia,1,2,FIFA World Cup,men,3
+40394,2018-06-27,South Korea,Germany,2,0,FIFA World Cup,men,2
+40395,2018-06-27,Mexico,Sweden,0,3,FIFA World Cup,men,3
+40396,2018-06-27,Serbia,Brazil,0,2,FIFA World Cup,men,2
+40397,2018-06-27,Switzerland,Costa Rica,2,2,FIFA World Cup,men,4
+40398,2018-06-28,Japan,Poland,0,1,FIFA World Cup,men,1
+40399,2018-06-28,Senegal,Colombia,0,1,FIFA World Cup,men,1
+40400,2018-06-28,Panama,Tunisia,1,2,FIFA World Cup,men,3
+40401,2018-06-28,England,Belgium,0,1,FIFA World Cup,men,1
+40402,2018-06-30,France,Argentina,4,3,FIFA World Cup,men,7
+40403,2018-06-30,Uruguay,Portugal,2,1,FIFA World Cup,men,3
+40404,2018-07-01,Russia,Spain,1,1,FIFA World Cup,men,2
+40405,2018-07-01,Croatia,Denmark,1,1,FIFA World Cup,men,2
+40406,2018-07-02,Brazil,Mexico,2,0,FIFA World Cup,men,2
+40407,2018-07-02,Belgium,Japan,3,2,FIFA World Cup,men,5
+40408,2018-07-03,Sweden,Switzerland,1,0,FIFA World Cup,men,1
+40409,2018-07-03,Colombia,England,1,1,FIFA World Cup,men,2
+40411,2018-07-06,Uruguay,France,0,2,FIFA World Cup,men,2
+40412,2018-07-06,Brazil,Belgium,1,2,FIFA World Cup,men,3
+40413,2018-07-07,Sweden,England,0,2,FIFA World Cup,men,2
+40414,2018-07-07,Russia,Croatia,2,2,FIFA World Cup,men,4
+40415,2018-07-10,France,Belgium,1,0,FIFA World Cup,men,1
+40416,2018-07-11,Croatia,England,2,1,FIFA World Cup,men,3
+40417,2018-07-14,Belgium,England,2,0,FIFA World Cup,men,2
+40418,2018-07-15,France,Croatia,4,2,FIFA World Cup,men,6
+44283,2022-11-20,Qatar,Ecuador,0,2,FIFA World Cup,men,2
+44284,2022-11-21,Senegal,Netherlands,0,2,FIFA World Cup,men,2
+44285,2022-11-21,England,Iran,6,2,FIFA World Cup,men,8
+44286,2022-11-21,United States,Wales,1,1,FIFA World Cup,men,2
+44287,2022-11-22,Argentina,Saudi Arabia,1,2,FIFA World Cup,men,3
+44288,2022-11-22,Mexico,Poland,0,0,FIFA World Cup,men,0
+44289,2022-11-22,Denmark,Tunisia,0,0,FIFA World Cup,men,0
+44290,2022-11-22,France,Australia,4,1,FIFA World Cup,men,5
+44291,2022-11-23,Germany,Japan,1,2,FIFA World Cup,men,3
+44292,2022-11-23,Spain,Costa Rica,7,0,FIFA World Cup,men,7
+44293,2022-11-23,Morocco,Croatia,0,0,FIFA World Cup,men,0
+44294,2022-11-23,Belgium,Canada,1,0,FIFA World Cup,men,1
+44295,2022-11-24,Switzerland,Cameroon,1,0,FIFA World Cup,men,1
+44296,2022-11-24,Brazil,Serbia,2,0,FIFA World Cup,men,2
+44297,2022-11-24,Uruguay,South Korea,0,0,FIFA World Cup,men,0
+44298,2022-11-24,Portugal,Ghana,3,2,FIFA World Cup,men,5
+44299,2022-11-25,Qatar,Senegal,1,3,FIFA World Cup,men,4
+44300,2022-11-25,Netherlands,Ecuador,1,1,FIFA World Cup,men,2
+44301,2022-11-25,Wales,Iran,0,2,FIFA World Cup,men,2
+44302,2022-11-25,England,United States,0,0,FIFA World Cup,men,0
+44303,2022-11-26,Poland,Saudi Arabia,2,0,FIFA World Cup,men,2
+44304,2022-11-26,Argentina,Mexico,2,0,FIFA World Cup,men,2
+44305,2022-11-26,Tunisia,Australia,0,1,FIFA World Cup,men,1
+44306,2022-11-26,France,Denmark,2,1,FIFA World Cup,men,3
+44307,2022-11-27,Japan,Costa Rica,0,1,FIFA World Cup,men,1
+44308,2022-11-27,Spain,Germany,1,1,FIFA World Cup,men,2
+44309,2022-11-27,Belgium,Morocco,0,2,FIFA World Cup,men,2
+44310,2022-11-27,Croatia,Canada,4,1,FIFA World Cup,men,5
+44311,2022-11-28,Cameroon,Serbia,3,3,FIFA World Cup,men,6
+44312,2022-11-28,Brazil,Switzerland,1,0,FIFA World Cup,men,1
+44313,2022-11-28,South Korea,Ghana,2,3,FIFA World Cup,men,5
+44314,2022-11-28,Portugal,Uruguay,2,0,FIFA World Cup,men,2
+44315,2022-11-29,Ecuador,Senegal,1,2,FIFA World Cup,men,3
+44316,2022-11-29,Qatar,Netherlands,0,2,FIFA World Cup,men,2
+44317,2022-11-29,Wales,England,0,3,FIFA World Cup,men,3
+44318,2022-11-29,Iran,United States,0,1,FIFA World Cup,men,1
+44319,2022-11-30,Poland,Argentina,0,2,FIFA World Cup,men,2
+44320,2022-11-30,Saudi Arabia,Mexico,1,2,FIFA World Cup,men,3
+44321,2022-11-30,Australia,Denmark,1,0,FIFA World Cup,men,1
+44322,2022-11-30,Tunisia,France,1,0,FIFA World Cup,men,1
+44323,2022-12-01,Japan,Spain,2,1,FIFA World Cup,men,3
+44324,2022-12-01,Costa Rica,Germany,2,4,FIFA World Cup,men,6
+44325,2022-12-01,Croatia,Belgium,0,0,FIFA World Cup,men,0
+44326,2022-12-01,Canada,Morocco,1,2,FIFA World Cup,men,3
+44327,2022-12-02,Serbia,Switzerland,2,3,FIFA World Cup,men,5
+44328,2022-12-02,Cameroon,Brazil,1,0,FIFA World Cup,men,1
+44329,2022-12-02,Ghana,Uruguay,0,2,FIFA World Cup,men,2
+44330,2022-12-02,South Korea,Portugal,2,1,FIFA World Cup,men,3
+44331,2022-12-03,Netherlands,United States,3,1,FIFA World Cup,men,4
+44332,2022-12-03,Argentina,Australia,2,1,FIFA World Cup,men,3
+44333,2022-12-04,France,Poland,3,1,FIFA World Cup,men,4
+44334,2022-12-04,England,Senegal,3,0,FIFA World Cup,men,3
+44335,2022-12-05,Japan,Croatia,1,1,FIFA World Cup,men,2
+44336,2022-12-05,Brazil,South Korea,4,1,FIFA World Cup,men,5
+44337,2022-12-06,Morocco,Spain,0,0,FIFA World Cup,men,0
+44338,2022-12-06,Portugal,Switzerland,6,1,FIFA World Cup,men,7
+44339,2022-12-09,Croatia,Brazil,1,1,FIFA World Cup,men,2
+44340,2022-12-09,Netherlands,Argentina,2,2,FIFA World Cup,men,4
+44342,2022-12-10,Morocco,Portugal,1,0,FIFA World Cup,men,1
+44343,2022-12-10,England,France,1,2,FIFA World Cup,men,3
+44345,2022-12-13,Argentina,Croatia,3,0,FIFA World Cup,men,3
+44346,2022-12-14,France,Morocco,2,0,FIFA World Cup,men,2
+44350,2022-12-17,Croatia,Morocco,2,1,FIFA World Cup,men,3
+44352,2022-12-18,Argentina,France,3,3,FIFA World Cup,men,6
+45953,2003-09-20,Nigeria,North Korea,0,3,FIFA World Cup,women,3
+45954,2003-09-20,Norway,France,2,0,FIFA World Cup,women,2
+45955,2003-09-20,Germany,Canada,4,1,FIFA World Cup,women,5
+45956,2003-09-20,Japan,Argentina,6,0,FIFA World Cup,women,6
+45957,2003-09-21,United States,Sweden,3,1,FIFA World Cup,women,4
+45958,2003-09-21,Brazil,South Korea,3,0,FIFA World Cup,women,3
+45959,2003-09-21,Australia,Russia,1,2,FIFA World Cup,women,3
+45960,2003-09-21,China PR,Ghana,1,0,FIFA World Cup,women,1
+45962,2003-09-24,Norway,Brazil,1,4,FIFA World Cup,women,5
+45963,2003-09-24,France,South Korea,1,0,FIFA World Cup,women,1
+45964,2003-09-24,Germany,Japan,3,0,FIFA World Cup,women,3
+45965,2003-09-24,Canada,Argentina,3,0,FIFA World Cup,women,3
+45966,2003-09-25,Sweden,North Korea,1,0,FIFA World Cup,women,1
+45967,2003-09-25,United States,Nigeria,5,0,FIFA World Cup,women,5
+45968,2003-09-25,Ghana,Russia,0,3,FIFA World Cup,women,3
+45969,2003-09-25,China PR,Australia,1,1,FIFA World Cup,women,2
+45973,2003-09-27,South Korea,Norway,1,7,FIFA World Cup,women,8
+45974,2003-09-27,France,Brazil,1,1,FIFA World Cup,women,2
+45975,2003-09-27,Canada,Japan,3,1,FIFA World Cup,women,4
+45976,2003-09-27,Argentina,Germany,1,6,FIFA World Cup,women,7
+45978,2003-09-28,Sweden,Nigeria,3,0,FIFA World Cup,women,3
+45979,2003-09-28,United States,North Korea,3,0,FIFA World Cup,women,3
+45980,2003-09-28,Ghana,Australia,2,1,FIFA World Cup,women,3
+45981,2003-09-28,China PR,Russia,1,0,FIFA World Cup,women,1
+45982,2003-10-01,Brazil,Sweden,1,2,FIFA World Cup,women,3
+45983,2003-10-01,United States,Norway,1,0,FIFA World Cup,women,1
+45984,2003-10-02,Germany,Russia,7,1,FIFA World Cup,women,8
+45985,2003-10-02,China PR,Canada,0,1,FIFA World Cup,women,1
+45987,2003-10-05,United States,Germany,0,3,FIFA World Cup,women,3
+45988,2003-10-05,Sweden,Canada,2,1,FIFA World Cup,women,3
+45989,2003-10-11,United States,Canada,3,1,FIFA World Cup,women,4
+45991,2003-10-12,Germany,Sweden,2,1,FIFA World Cup,women,3
+46491,2007-09-10,Germany,Argentina,11,0,FIFA World Cup,women,11
+46492,2007-09-11,Japan,England,2,2,FIFA World Cup,women,4
+46493,2007-09-11,United States,North Korea,2,2,FIFA World Cup,women,4
+46494,2007-09-11,Nigeria,Sweden,1,1,FIFA World Cup,women,2
+46495,2007-09-12,Ghana,Australia,1,4,FIFA World Cup,women,5
+46496,2007-09-12,Norway,Canada,2,1,FIFA World Cup,women,3
+46497,2007-09-12,New Zealand,Brazil,0,5,FIFA World Cup,women,5
+46498,2007-09-12,China PR,Denmark,3,2,FIFA World Cup,women,5
+46499,2007-09-14,Argentina,Japan,0,1,FIFA World Cup,women,1
+46500,2007-09-14,England,Germany,0,0,FIFA World Cup,women,0
+46501,2007-09-14,Sweden,United States,0,2,FIFA World Cup,women,2
+46502,2007-09-14,North Korea,Nigeria,2,0,FIFA World Cup,women,2
+46503,2007-09-15,Canada,Ghana,4,0,FIFA World Cup,women,4
+46504,2007-09-15,Australia,Norway,1,1,FIFA World Cup,women,2
+46505,2007-09-15,Denmark,New Zealand,2,0,FIFA World Cup,women,2
+46506,2007-09-15,China PR,Brazil,0,4,FIFA World Cup,women,4
+46507,2007-09-17,Germany,Japan,2,0,FIFA World Cup,women,2
+46508,2007-09-17,England,Argentina,6,1,FIFA World Cup,women,7
+46509,2007-09-18,Nigeria,United States,0,1,FIFA World Cup,women,1
+46510,2007-09-18,North Korea,Sweden,1,2,FIFA World Cup,women,3
+46511,2007-09-20,Norway,Ghana,7,2,FIFA World Cup,women,9
+46512,2007-09-20,Australia,Canada,2,2,FIFA World Cup,women,4
+46513,2007-09-20,China PR,New Zealand,2,0,FIFA World Cup,women,2
+46514,2007-09-20,Brazil,Denmark,1,0,FIFA World Cup,women,1
+46515,2007-09-22,Germany,North Korea,3,0,FIFA World Cup,women,3
+46516,2007-09-22,United States,England,3,0,FIFA World Cup,women,3
+46517,2007-09-23,China PR,Norway,0,1,FIFA World Cup,women,1
+46518,2007-09-23,Brazil,Australia,3,2,FIFA World Cup,women,5
+46519,2007-09-26,Germany,Norway,3,0,FIFA World Cup,women,3
+46520,2007-09-27,United States,Brazil,0,4,FIFA World Cup,women,4
+46521,2007-09-30,Norway,United States,1,4,FIFA World Cup,women,5
+46522,2007-09-30,Germany,Brazil,2,0,FIFA World Cup,women,2
+47078,2011-06-26,Nigeria,France,0,1,FIFA World Cup,women,1
+47079,2011-06-26,Germany,Canada,2,1,FIFA World Cup,women,3
+47080,2011-06-27,Japan,New Zealand,2,1,FIFA World Cup,women,3
+47081,2011-06-27,Mexico,England,1,1,FIFA World Cup,women,2
+47082,2011-06-28,Colombia,Sweden,0,1,FIFA World Cup,women,1
+47083,2011-06-28,United States,North Korea,2,0,FIFA World Cup,women,2
+47084,2011-06-29,Norway,Equatorial Guinea,1,0,FIFA World Cup,women,1
+47085,2011-06-29,Brazil,Australia,1,0,FIFA World Cup,women,1
+47086,2011-06-30,Canada,France,0,4,FIFA World Cup,women,4
+47087,2011-06-30,Germany,Nigeria,1,0,FIFA World Cup,women,1
+47088,2011-07-01,Japan,Mexico,4,0,FIFA World Cup,women,4
+47089,2011-07-01,New Zealand,England,1,2,FIFA World Cup,women,3
+47090,2011-07-02,North Korea,Sweden,0,1,FIFA World Cup,women,1
+47091,2011-07-02,United States,Colombia,3,0,FIFA World Cup,women,3
+47092,2011-07-03,Australia,Equatorial Guinea,3,2,FIFA World Cup,women,5
+47093,2011-07-03,Brazil,Norway,3,0,FIFA World Cup,women,3
+47094,2011-07-05,Germany,France,4,2,FIFA World Cup,women,6
+47095,2011-07-05,Canada,Nigeria,0,1,FIFA World Cup,women,1
+47096,2011-07-05,England,Japan,2,0,FIFA World Cup,women,2
+47097,2011-07-05,New Zealand,Mexico,2,2,FIFA World Cup,women,4
+47098,2011-07-06,Sweden,United States,2,1,FIFA World Cup,women,3
+47099,2011-07-06,North Korea,Colombia,0,0,FIFA World Cup,women,0
+47100,2011-07-06,Equatorial Guinea,Brazil,0,3,FIFA World Cup,women,3
+47101,2011-07-06,Australia,Norway,2,1,FIFA World Cup,women,3
+47102,2011-07-09,England,France,1,1,FIFA World Cup,women,2
+47103,2011-07-09,Germany,Japan,0,1,FIFA World Cup,women,1
+47104,2011-07-10,Sweden,Australia,3,1,FIFA World Cup,women,4
+47105,2011-07-10,Brazil,United States,2,2,FIFA World Cup,women,4
+47106,2011-07-13,France,United States,1,3,FIFA World Cup,women,4
+47107,2011-07-13,Japan,Sweden,3,1,FIFA World Cup,women,4
+47108,2011-07-16,Sweden,France,2,1,FIFA World Cup,women,3
+47109,2011-07-17,Japan,United States,2,2,FIFA World Cup,women,4
+47779,2015-06-06,Canada,China PR,1,0,FIFA World Cup,women,1
+47780,2015-06-06,New Zealand,Netherlands,0,1,FIFA World Cup,women,1
+47781,2015-06-07,Norway,Thailand,4,0,FIFA World Cup,women,4
+47782,2015-06-07,Germany,Ivory Coast,10,0,FIFA World Cup,women,10
+47783,2015-06-08,Cameroon,Ecuador,6,0,FIFA World Cup,women,6
+47784,2015-06-08,Japan,Switzerland,1,0,FIFA World Cup,women,1
+47785,2015-06-08,Sweden,Nigeria,3,3,FIFA World Cup,women,6
+47786,2015-06-08,United States,Australia,3,1,FIFA World Cup,women,4
+47787,2015-06-09,Spain,Costa Rica,1,1,FIFA World Cup,women,2
+47788,2015-06-09,Brazil,South Korea,2,0,FIFA World Cup,women,2
+47789,2015-06-09,France,England,1,0,FIFA World Cup,women,1
+47790,2015-06-09,Colombia,Mexico,1,1,FIFA World Cup,women,2
+47791,2015-06-11,China PR,Netherlands,1,0,FIFA World Cup,women,1
+47792,2015-06-11,Canada,New Zealand,0,0,FIFA World Cup,women,0
+47793,2015-06-11,Germany,Norway,1,1,FIFA World Cup,women,2
+47794,2015-06-11,Ivory Coast,Thailand,2,3,FIFA World Cup,women,5
+47795,2015-06-12,Switzerland,Ecuador,10,1,FIFA World Cup,women,11
+47796,2015-06-12,Japan,Cameroon,2,1,FIFA World Cup,women,3
+47797,2015-06-12,Australia,Nigeria,2,0,FIFA World Cup,women,2
+47798,2015-06-12,United States,Sweden,0,0,FIFA World Cup,women,0
+47799,2015-06-13,Brazil,Spain,1,0,FIFA World Cup,women,1
+47800,2015-06-13,South Korea,Costa Rica,2,2,FIFA World Cup,women,4
+47801,2015-06-13,France,Colombia,0,2,FIFA World Cup,women,2
+47802,2015-06-13,England,Mexico,2,1,FIFA World Cup,women,3
+47803,2015-06-15,Canada,Netherlands,1,1,FIFA World Cup,women,2
+47804,2015-06-15,China PR,New Zealand,2,2,FIFA World Cup,women,4
+47805,2015-06-15,Thailand,Germany,0,4,FIFA World Cup,women,4
+47806,2015-06-15,Ivory Coast,Norway,1,3,FIFA World Cup,women,4
+47807,2015-06-16,Ecuador,Japan,0,1,FIFA World Cup,women,1
+47808,2015-06-16,Switzerland,Cameroon,1,2,FIFA World Cup,women,3
+47809,2015-06-16,Nigeria,United States,0,1,FIFA World Cup,women,1
+47810,2015-06-16,Australia,Sweden,1,1,FIFA World Cup,women,2
+47811,2015-06-17,Costa Rica,Brazil,0,1,FIFA World Cup,women,1
+47812,2015-06-17,South Korea,Spain,2,1,FIFA World Cup,women,3
+47813,2015-06-17,Mexico,France,0,5,FIFA World Cup,women,5
+47814,2015-06-17,England,Colombia,2,1,FIFA World Cup,women,3
+47815,2015-06-20,Germany,Sweden,4,1,FIFA World Cup,women,5
+47816,2015-06-20,China PR,Cameroon,1,0,FIFA World Cup,women,1
+47817,2015-06-21,Brazil,Australia,0,1,FIFA World Cup,women,1
+47818,2015-06-21,France,South Korea,3,0,FIFA World Cup,women,3
+47819,2015-06-21,Canada,Switzerland,1,0,FIFA World Cup,women,1
+47820,2015-06-22,Norway,England,1,2,FIFA World Cup,women,3
+47821,2015-06-22,United States,Colombia,2,0,FIFA World Cup,women,2
+47822,2015-06-23,Japan,Netherlands,2,1,FIFA World Cup,women,3
+47823,2015-06-26,Germany,France,1,1,FIFA World Cup,women,2
+47824,2015-06-26,China PR,United States,0,1,FIFA World Cup,women,1
+47825,2015-06-27,Australia,Japan,0,1,FIFA World Cup,women,1
+47826,2015-06-27,Canada,England,1,2,FIFA World Cup,women,3
+47827,2015-06-30,United States,Germany,2,0,FIFA World Cup,women,2
+47828,2015-07-01,Japan,England,2,1,FIFA World Cup,women,3
+47829,2015-07-04,Germany,England,0,1,FIFA World Cup,women,1
+47830,2015-07-05,United States,Japan,5,2,FIFA World Cup,women,7
+48770,2019-06-07,France,South Korea,4,0,FIFA World Cup,women,4
+48771,2019-06-08,Norway,Nigeria,3,0,FIFA World Cup,women,3
+48772,2019-06-08,Germany,China PR,1,0,FIFA World Cup,women,1
+48773,2019-06-08,Spain,South Africa,3,1,FIFA World Cup,women,4
+48774,2019-06-09,Australia,Italy,1,2,FIFA World Cup,women,3
+48775,2019-06-09,Brazil,Jamaica,3,0,FIFA World Cup,women,3
+48776,2019-06-09,England,Scotland,2,1,FIFA World Cup,women,3
+48777,2019-06-10,Argentina,Japan,0,0,FIFA World Cup,women,0
+48778,2019-06-10,Canada,Cameroon,1,0,FIFA World Cup,women,1
+48779,2019-06-11,New Zealand,Netherlands,0,1,FIFA World Cup,women,1
+48780,2019-06-11,Chile,Sweden,0,2,FIFA World Cup,women,2
+48781,2019-06-11,United States,Thailand,13,0,FIFA World Cup,women,13
+48782,2019-06-12,Nigeria,South Korea,2,0,FIFA World Cup,women,2
+48783,2019-06-12,France,Norway,2,1,FIFA World Cup,women,3
+48784,2019-06-12,Germany,Spain,1,0,FIFA World Cup,women,1
+48785,2019-06-13,South Africa,China PR,0,1,FIFA World Cup,women,1
+48786,2019-06-13,Australia,Brazil,3,2,FIFA World Cup,women,5
+48787,2019-06-14,Jamaica,Italy,0,5,FIFA World Cup,women,5
+48788,2019-06-14,Japan,Scotland,2,1,FIFA World Cup,women,3
+48789,2019-06-14,England,Argentina,1,0,FIFA World Cup,women,1
+48790,2019-06-15,Netherlands,Cameroon,3,1,FIFA World Cup,women,4
+48791,2019-06-15,Canada,New Zealand,2,0,FIFA World Cup,women,2
+48792,2019-06-16,Sweden,Thailand,5,1,FIFA World Cup,women,6
+48793,2019-06-16,United States,Chile,3,0,FIFA World Cup,women,3
+48794,2019-06-17,France,Nigeria,1,0,FIFA World Cup,women,1
+48795,2019-06-17,South Korea,Norway,1,2,FIFA World Cup,women,3
+48796,2019-06-17,South Africa,Germany,0,4,FIFA World Cup,women,4
+48797,2019-06-17,China PR,Spain,0,0,FIFA World Cup,women,0
+48798,2019-06-18,Jamaica,Australia,1,4,FIFA World Cup,women,5
+48799,2019-06-18,Italy,Brazil,0,1,FIFA World Cup,women,1
+48800,2019-06-19,Japan,England,0,2,FIFA World Cup,women,2
+48801,2019-06-19,Scotland,Argentina,3,3,FIFA World Cup,women,6
+48802,2019-06-20,Netherlands,Canada,2,1,FIFA World Cup,women,3
+48803,2019-06-20,Cameroon,New Zealand,2,1,FIFA World Cup,women,3
+48804,2019-06-20,Sweden,United States,0,2,FIFA World Cup,women,2
+48805,2019-06-20,Thailand,Chile,0,2,FIFA World Cup,women,2
+48807,2019-06-22,Germany,Nigeria,3,0,FIFA World Cup,women,3
+48808,2019-06-22,Norway,Australia,1,1,FIFA World Cup,women,2
+48809,2019-06-23,England,Cameroon,3,0,FIFA World Cup,women,3
+48810,2019-06-23,France,Brazil,2,1,FIFA World Cup,women,3
+48811,2019-06-24,Spain,United States,1,2,FIFA World Cup,women,3
+48812,2019-06-24,Sweden,Canada,1,0,FIFA World Cup,women,1
+48813,2019-06-25,Italy,China PR,2,0,FIFA World Cup,women,2
+48814,2019-06-25,Netherlands,Japan,2,1,FIFA World Cup,women,3
+48815,2019-06-27,Norway,England,0,3,FIFA World Cup,women,3
+48816,2019-06-28,France,United States,1,2,FIFA World Cup,women,3
+48817,2019-06-29,Italy,Netherlands,0,2,FIFA World Cup,women,2
+48818,2019-06-29,Germany,Sweden,1,2,FIFA World Cup,women,3
+48819,2019-07-02,England,United States,1,2,FIFA World Cup,women,3
+48820,2019-07-03,Netherlands,Sweden,1,0,FIFA World Cup,women,1
+48821,2019-07-06,England,Sweden,1,2,FIFA World Cup,women,3
+48822,2019-07-07,United States,Netherlands,2,0,FIFA World Cup,women,2
