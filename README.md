@@ -76,7 +76,7 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 33 Project 9 - Predictive Modeling for Agriculture
 
-### 35 Project 10 - Clustering Antarctic Penguin Species (TO DO)
+### 35 Project 10 - Clustering Antarctic Penguin Species
 
 ### 37 Project 11 - Predicting Movie Rental Durations (TO DO)
 
