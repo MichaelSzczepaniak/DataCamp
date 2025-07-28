@@ -50,7 +50,7 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 34 Unsupervised Learning in Python
 
-### 36 Machine Learning with Tree-Based Models in Python (TO DO)
+### 36 Machine Learning with Tree-Based Models in Python
 
 ## Associate Data Scientist Projects
 
@@ -78,7 +78,7 @@ https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
 ### 35 Project 10 - Clustering Antarctic Penguin Species
 
-### 37 Project 11 - Predicting Movie Rental Durations (TO DO)
+### 37 Project 11 - Predicting Movie Rental Durations
 
 
 ## Tracks/Data Scientist
