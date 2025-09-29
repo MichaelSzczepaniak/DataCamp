@@ -87,6 +87,8 @@ Numbers preceding folders reflect their order in the overall program described a
 
 https://app.datacamp.com/learn/career-tracks/data-scientist-in-pythohttps://app.datacamp.com/learn/career-tracks/data-scientist-in-python
 
+### 03 Developing Python Packages
+
 ## Data Scientist Projects
 
 
