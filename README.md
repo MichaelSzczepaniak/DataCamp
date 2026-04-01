@@ -82,6 +82,8 @@ Projects that have been moved under the **DSPortfolio** are noted below.
 
 ### 21 Project 6 - Exploring Airbnb Market Trends
 
++ Moved to the **DSPortfolio**
+
 ### 27 Project 7 - Modeling Car Insurance Claims Outcomes
 
 ### 31 Project 8 - Hypothesis Testing with Men's and Women's Soccer Matches
