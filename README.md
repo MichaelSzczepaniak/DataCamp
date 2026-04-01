@@ -58,15 +58,27 @@ Numbers preceding projects reflect their overall program described at:
 
 https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
+Projects that have been moved under the **DSPortfolio** are noted below.
+
 ### 03 Project 1 - Investigating Netflix Movies
+
++ Moved to the **DSPortfolio**
 
 ### 05 Project 2 - Exploring NYC Public School Test Result Scores
 
++ Moved to the **DSPortfolio**
+
 ### 10 Project 3 - Visualizing the History of Nobel Prize Winner
+
++ Moved to the **DSPortfolio**
 
 ### 15 Project 4 - Analyzing Crime in Los Angeles
 
++ Moved to the **DSPortfolio**
+
 ### 17 Project 5 - Customer Analytics - Preparing Data for Modeling
+
++ Moved to the **DSPortfolio**
 
 ### 21 Project 6 - Exploring Airbnb Market Trends
 
